@@ -1,0 +1,1 @@
+# Simples projeto criado com Java Swing, utilizando JDialoag. O objetivo principal do projeto é estudar Threads em Java.
